@@ -14,10 +14,10 @@
     "package.json",
     "README.md"
   ],
-
+  "repository": "https://github.com/Garker/cirrorswitch-cli",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MTI",
   "dependencies": {
     "chalk": "^5.0.0",
     "inquirer": "^8.2.0",
