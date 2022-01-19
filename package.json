@@ -1,0 +1,26 @@
+{
+  "name": "cirrorswitch-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "bin": {
+    "cirrorswitch": "bin/index.js"
+  },
+  "scripts": {
+    "dev": "clear && node bin/index.js"
+  },
+  "files": [
+    "bin",
+    "package.json",
+    "README.md"
+  ],
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.5"
+  }
+}
